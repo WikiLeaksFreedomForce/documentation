@@ -9,7 +9,8 @@ Decrypt using
 $ openssl enc -d [CYPHER HERE] -in insurance.aes256 -out decrypted.file
 ```
 
-You will be asked for a password. Use `ONION`
+You will be asked for a password.
+`ONION` works, but that does not mean it's the correct password.
 
 
 Available cyphers
