@@ -1,5 +1,6 @@
-#aes-256-cbc
 <a name="cbc"></a>
+#aes-256-cbc
+
 ```
 8471151       0x81426F        MySQL MISAM compressed data file Version 3
 141774508     0x8734EAC       MySQL ISAM compressed data file Version 7
@@ -23,8 +24,9 @@
 863755075     0x337BDB43      MySQL MISAM compressed data file Version 1
 ```
                          
-#aes-256-cfb8
 <a name="cfb8"></a>
+#aes-256-cfb8
+
 ```
 15325171      0xE9D7F3        gzip compressed data, has header CRC, has 12212 bytes of extra data, has comment, last modified: 1905-04-12 04:53:49 (bogus date)
 17704071      0x10E2487       LANCOM WWAN firmware
@@ -47,8 +49,9 @@
 //-aes-256-cbc-hmac-sha256  
 //-aes-256-ccm bad decrypt 
               
-#aes-256-cfb
 <a name="cfb"></a>
+#aes-256-cfb
+
 ```
 47738844      0x2D86FDC       gzip compressed data, ASCII, has header CRC, has 18792 bytes of extra data, has comment, from Atari, last modified: 1970-09-10 07:50:09 (bogus date)
 112822090     0x6B9874A       gzip compressed data, ASCII, last modified: 2008-04-09 15:39:33
@@ -85,8 +88,9 @@
 1425252194    0x54F39F62      VMware4 disk image
 ```
            
-#aes-256-cfb1  
 <a name="cfb1"></a>
+#aes-256-cfb1  
+
 ```
 30374191      0x1CF792F       MySQL MISAM index file Version 11
 48749698      0x2E7DC82       Windows Script Encoded Data (screnc.exe)
