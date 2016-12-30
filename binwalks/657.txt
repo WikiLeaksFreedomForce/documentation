@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+5023936       0x4CA8C0        gzip compressed data, from FAT filesystem (MS-DOS, OS/2, NT), last modified: 1968-12-06 08:42:40 (bogus date)
+76821622      0x4943476       Minix filesystem, V1, little endian, -12811 zones
+76928769      0x495D701       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+118748376     0x713F4D8       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+123347872     0x75A23A0       Microsoft executable, MS-DOS
+

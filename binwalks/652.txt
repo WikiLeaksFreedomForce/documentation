@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+15325756      0xE9DA3C        mcrypt 2.2 encrypted data, algorithm: blowfish-128, mode: CBC, keymode: 8bit
+33968827      0x20652BB       Minix filesystem, V1, big endian, 30011 zones
+40311378      0x2671A52       GIF image data, version "89a", 100 x 99
+102329687     0x6196D57       MySQL MISAM compressed data file Version 8
+109341778     0x6846C52       Cisco IOS experimental microcode, for "\"
+

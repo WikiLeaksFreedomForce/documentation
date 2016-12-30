@@ -1,0 +1,20 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+6836398       0x6850AE        MySQL MISAM compressed data file Version 1
+25214993      0x180C011       Microsoft executable, MS-DOS
+25215935      0x180C3BF       Microsoft executable, MS-DOS
+25240477      0x181239D       Microsoft executable, MS-DOS
+63111760      0x3C30250       Minix filesystem, V1, big endian, -19190 zones
+108736677     0x67B30A5       Minix filesystem, V1, little endian, 30 char names, -3897 zones
+118960750     0x717326E       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+118965012     0x7174314       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+118973874     0x71765B2       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+118978690     0x7177882       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+118991900     0x717AC1C       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+119008196     0x717EBC4       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+119013944     0x7180238       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+119016466     0x7180C12       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+119023756     0x718288C       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+128545837     0x7A9742D       MySQL MISAM index file Version 7
+

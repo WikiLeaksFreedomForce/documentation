@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+2343425       0x23C201        gzip compressed data, has header CRC, last modified: 2015-06-11 23:26:24
+73093396      0x45B5114       Minix filesystem, V1, little endian, 30 char names, -19488 zones
+100254952     0x5F9C4E8       Cisco IOS experimental microcode, for "a6"
+

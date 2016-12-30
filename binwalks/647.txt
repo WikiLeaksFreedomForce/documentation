@@ -1,0 +1,11 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+60059297      0x3946EA1       Microsoft executable, MS-DOS
+86589700      0x5294104       Minix filesystem, V1, big endian, 30011 zones
+89901452      0x55BC98C       Minix filesystem, V1, big endian, 30011 zones
+99187266      0x5E97A42       Microsoft executable, MS-DOS
+100079940     0x5F71944       Minix filesystem, V1, big endian, 30011 zones
+111427126     0x6A43E36       Minix filesystem, V1, big endian, 30011 zones
+127414601     0x7983149       Minix filesystem, V1, big endian, 30011 zones
+

@@ -1,0 +1,11 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+5051771       0x4D157B        Microsoft executable, MS-DOS
+25201349      0x1808AC5       MySQL MISAM compressed data file Version 2
+25687690      0x187F68A       gzip compressed data, from QDOS, last modified: 1962-07-25 04:08:54 (bogus date)
+56812471      0x362E3B7       GPG key trust database version 17
+90086268      0x55E9B7C       mcrypt 2.2 encrypted data, algorithm: blowfish-128, mode: CBC, keymode: 8bit
+93982236      0x59A0E1C       LZ4 compressed data, legacy
+129956438     0x7BEFA56       MySQL MISAM index file Version 4
+

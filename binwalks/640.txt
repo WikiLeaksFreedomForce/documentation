@@ -1,0 +1,12 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+3780617       0x39B009        StuffIt Deluxe Segment (data): f
+56894575      0x364246F       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+60642669      0x39D556D       MPEG transport stream data
+64448145      0x3D76691       Microsoft executable, MS-DOS
+92828995      0x5887543       Minix filesystem, V1, little endian, 30 char names, -28056 zones
+98626764      0x5E0ECCC       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+100431716     0x5FC7764       Minix filesystem, V1, big endian, 30 char names, -13422 zones
+124048302     0x764D3AE       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+

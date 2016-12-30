@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+59887411      0x391CF33       MySQL ISAM index file Version 9
+122900323     0x7534F63       StuffIt Deluxe Segment (data): f
+

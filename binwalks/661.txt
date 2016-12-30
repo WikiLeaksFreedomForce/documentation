@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+17845928      0x1104EA8       MySQL MISAM index file Version 5
+66029902      0x3EF894E       MySQL MISAM compressed data file Version 2
+88578734      0x5479AAE       MySQL ISAM index file Version 9
+129341092     0x7B596A4       PGP armored data, signed message
+129357544     0x7B5D6E8       PGP armored data,
+

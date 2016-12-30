@@ -1,0 +1,15 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+9051996       0x8A1F5C        mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+33032120      0x1F807B8       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+66161644      0x3F18BEC       Minix filesystem, V1, big endian, 30011 zones
+70735711      0x437575F       Minix filesystem, V1, big endian, 30011 zones
+70874032      0x43973B0       Minix filesystem, V1, big endian, 30011 zones
+74097567      0x46AA39F       Minix filesystem, V1, big endian, 30011 zones
+92875419      0x5892A9B       Cisco IOS experimental microcode, for "\"
+103822164     0x6303354       Minix filesystem, V1, big endian, 30011 zones
+121901779     0x74412D3       Minix filesystem, V1, big endian, 30011 zones
+129711343     0x7BB3CEF       MySQL ISAM index file Version 9
+133468124     0x7F48FDC       Minix filesystem, V1, big endian, -16782 zones
+

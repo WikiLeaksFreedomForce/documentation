@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+32907164      0x1F61F9C       MySQL MISAM index file Version 1
+68532521      0x415B929       StuffIt Deluxe Segment (data): f
+76773276      0x493779C       mcrypt 2.5 encrypted data, algorithm: "", keysize: 10087 bytes, mode: "w",
+109642647     0x6890397       gzip compressed data, last modified: 1982-03-25 03:46:08 (bogus date)
+

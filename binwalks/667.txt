@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+74451565      0x4700A6D       Minix filesystem, V1, little endian, 30 char names, 14701 zones
+83421052      0x4F8E77C       Microsoft executable, MS-DOS
+132551508     0x7E69354       Minix filesystem, V1, little endian, 30 char names, -27842 zones
+

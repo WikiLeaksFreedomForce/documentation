@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+20634150      0x13ADA26       MySQL MISAM index file Version 3
+28415830      0x1B19756       LANCOM OEM file
+65807903      0x3EC261F       MySQL ISAM compressed data file Version 8
+82141042      0x4E55F72       Microsoft executable, MS-DOS
+123901012     0x7629454       MySQL ISAM index file Version 1
+

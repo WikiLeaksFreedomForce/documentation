@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+17093974      0x104D556       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+81315928      0x4D8C858       MySQL ISAM index file Version 4
+85276329      0x51536A9       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+85276397      0x51536ED       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+111803271     0x6A9FB87       COBALT boot rom data (Flat boot rom or file system)
+

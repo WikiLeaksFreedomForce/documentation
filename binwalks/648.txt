@@ -1,0 +1,31 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+17278568      0x107A668       Minix filesystem, V1, big endian, 30011 zones
+18186920      0x11582A8       Minix filesystem, V1, big endian, 30011 zones
+18199959      0x115B597       Minix filesystem, V1, big endian, 30011 zones
+24620576      0x177AE20       Minix filesystem, V1, big endian, 30011 zones
+28903454      0x1B9081E       Minix filesystem, V1, big endian, 30011 zones
+31629692      0x1E2A17C       Minix filesystem, V1, big endian, 30011 zones
+32674588      0x1F2931C       Microsoft executable, MS-DOS
+42431679      0x28774BF       Minix filesystem, V1, big endian, 30011 zones
+45391720      0x2B49F68       Minix filesystem, V1, big endian, 30011 zones
+46847534      0x2CAD62E       Minix filesystem, V1, big endian, 30011 zones
+60953526      0x3A213B6       Minix filesystem, V1, big endian, 30011 zones
+61547923      0x3AB2593       Minix filesystem, V1, big endian, -13650 zones
+66658395      0x3F9205B       Minix filesystem, V1, big endian, 30011 zones
+69717187      0x427CCC3       Minix filesystem, V1, big endian, 30011 zones
+72430814      0x45134DE       Minix filesystem, V1, big endian, 30011 zones
+80903817      0x4D27E89       Minix filesystem, V1, big endian, 30011 zones
+88625660      0x54851FC       Minix filesystem, V1, big endian, 30011 zones
+91599713      0x575B361       Minix filesystem, V1, little endian, 30215 zones
+98228282      0x5DAD83A       Minix filesystem, V1, big endian, 30011 zones
+106095519     0x652E39F       Minix filesystem, V1, big endian, 30011 zones
+107296531     0x6653713       Minix filesystem, V1, big endian, 30011 zones
+109335024     0x68451F0       MySQL ISAM compressed data file Version 7
+110498565     0x6961305       Minix filesystem, V1, big endian, 30011 zones
+110590496     0x6977A20       Minix filesystem, V1, big endian, 30011 zones
+112083513     0x6AE4239       Minix filesystem, V1, big endian, 30011 zones
+117170616     0x6FBE1B8       Minix filesystem, V1, big endian, 30011 zones
+118094155     0x709F94B       Minix filesystem, V1, big endian, 30011 zones
+

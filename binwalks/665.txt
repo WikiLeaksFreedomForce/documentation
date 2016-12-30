@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+2807633       0x2AD751        Qualcomm device tree container, version: 3431773534, DTB entries: 4126459426
+65531968      0x3E7F040       device tree image (dtb)
+107144237     0x662E42D       PARity archive data - file number 17781
+115040993     0x6DB62E1       MySQL MISAM compressed data file Version 9
+

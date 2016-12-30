@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+50697274      0x305943A       LZ4 compressed data
+75347044      0x47DB464       gzip compressed data, ASCII, has 26917 bytes of extra data, has comment, last modified: 2011-10-21 12:06:50
+86268571      0x5245A9B       Minix filesystem, V1, big endian, -32415 zones
+99708687      0x5F16F0F       Windows Script Encoded Data (screnc.exe)
+108235640     0x6738B78       MySQL ISAM index file Version 1
+

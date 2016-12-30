@@ -1,0 +1,31 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+3586116       0x36B844        MySQL MISAM index file Version 2
+9129796       0x8B4F44        Minix filesystem, V1, big endian, 30011 zones
+11287817      0xAC3D09        Minix filesystem, V1, big endian, 30011 zones
+12226151      0xBA8E67        Minix filesystem, V1, big endian, 30011 zones
+12459142      0xBE1C86        Minix filesystem, V1, big endian, 30011 zones
+17292768      0x107DDE0       Minix filesystem, V1, big endian, 30011 zones
+23818668      0x16B71AC       Minix filesystem, V1, big endian, 30011 zones
+36145775      0x2278A6F       Minix filesystem, V1, big endian, 30011 zones
+37236850      0x2383072       Minix filesystem, V1, big endian, 30011 zones
+37254884      0x23876E4       Minix filesystem, V1, big endian, 30011 zones
+41247742      0x27563FE       Minix filesystem, V1, big endian, 30011 zones
+44813568      0x2ABCD00       PGP armored data, signed message
+44814028      0x2ABCECC       PGP armored data,
+71508719      0x44322EF       MySQL MISAM index file Version 11
+79611787      0x4BEC78B       Minix filesystem, V1, big endian, 30011 zones
+82624695      0x4ECC0B7       Minix filesystem, V1, big endian, 30011 zones
+86668834      0x52A7622       Minix filesystem, V1, big endian, 30011 zones
+93319405      0x58FF0ED       Minix filesystem, V1, big endian, 30011 zones
+96533643      0x5C0FC8B       Minix filesystem, V1, big endian, 30011 zones
+104731169     0x63E1221       Minix filesystem, V1, big endian, 30011 zones
+106097672     0x652EC08       Minix filesystem, V1, big endian, 30011 zones
+108066677     0x670F775       Minix filesystem, V1, big endian, 30011 zones
+110060895     0x68F655F       Minix filesystem, V1, little endian, 16747 zones
+117797114     0x70570FA       Minix filesystem, V1, big endian, 30011 zones
+121504746     0x73E03EA       Minix filesystem, V1, big endian, 30011 zones
+125845382     0x7803F86       Minix filesystem, V1, big endian, 30011 zones
+131158659     0x7D15283       Minix filesystem, V1, big endian, 30011 zones
+

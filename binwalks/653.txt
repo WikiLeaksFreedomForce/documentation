@@ -1,0 +1,10 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+21098055      0x141EE47       HPACK archive data
+43731004      0x29B483C       Minix filesystem, V1, little endian, -5147 zones
+66465744      0x3F62FD0       Minix filesystem, V1, little endian, 32651 zones
+100513243     0x5FDB5DB       Microsoft executable, MS-DOS
+127921770     0x79FEE6A       Minix filesystem, V1, big endian, 30011 zones
+128063384     0x7A21798       Minix filesystem, V1, big endian, 30011 zones
+

@@ -1,0 +1,5 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+8347032       0x7F5D98        gzip compressed data, ASCII, has header CRC, has 16928 bytes of extra data, has comment, from VMS, last modified: 1916-03-09 03:10:44 (bogus date)
+

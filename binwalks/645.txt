@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+5696461       0x56EBCD        Cisco IOS microcode, for "Q"
+22144394      0x151E58A       MySQL ISAM compressed data file Version 1
+23210119      0x1622887       QNX6 filesystem
+87368466      0x5352312       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+109811297     0x68B9661       MySQL MISAM index file Version 9
+

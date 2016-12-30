@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+62708408      0x3BCDAB8       MySQL ISAM index file Version 8
+87587995      0x5387C9B       PARity archive data - file number 17110
+111085692     0x69F087C       Qualcomm device tree container, version: 2812681821, DTB entries: 1636404765
+

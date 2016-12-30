@@ -1,0 +1,10 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+18056098      0x11383A2       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+27380819      0x1A1CC53       MySQL MISAM compressed data file Version 1
+41605344      0x27AD8E0       Minix filesystem, V1, little endian, 28069 zones
+87356312      0x534F398       MySQL ISAM index file Version 1
+94368741      0x59FF3E5       Minix filesystem, V1, big endian, 32579 zones
+111464747     0x6A4D12B       OSX DMG image invalid{invalid)
+

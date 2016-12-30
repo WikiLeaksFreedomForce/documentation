@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+25290590      0x181E75E       Cisco IOS experimental microcode, for "^"
+59453373      0x38B2FBD       Minix filesystem, V1, big endian, 15255 zones
+79164398      0x4B7F3EE       MySQL MISAM index file Version 3
+

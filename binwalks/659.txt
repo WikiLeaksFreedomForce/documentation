@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+4820371       0x498D93        Qualcomm device tree container, version: 2045385081, DTB entries: 2097693
+47721795      0x2D82D43       Minix filesystem, V1, little endian, 22587 zones
+125424458     0x779D34A       lrzip compressed data
+

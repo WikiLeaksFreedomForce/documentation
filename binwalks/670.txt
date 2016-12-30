@@ -1,0 +1,5 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+29497526      0x1C218B6       StuffIt Deluxe Segment (data): f
+

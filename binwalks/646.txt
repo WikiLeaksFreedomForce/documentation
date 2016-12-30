@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+18545022      0x11AF97E       MySQL ISAM compressed data file Version 10
+32463533      0x1EF5AAD       MySQL ISAM compressed data file Version 10
+55603862      0x3507296       MySQL MISAM compressed data file Version 2
+91113601      0x56E4881       MySQL MISAM compressed data file Version 4
+

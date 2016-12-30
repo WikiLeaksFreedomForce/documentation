@@ -1,0 +1,31 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+2466544       0x25A2F0        Minix filesystem, V1, big endian, 30011 zones
+3301777       0x326191        Minix filesystem, V1, big endian, 30011 zones
+8914936       0x8807F8        Minix filesystem, V1, big endian, 30011 zones
+15773708      0xF0B00C        Minix filesystem, V1, big endian, 30011 zones
+19106238      0x12389BE       Minix filesystem, V1, big endian, 30011 zones
+38187218      0x246B0D2       Minix filesystem, V1, big endian, 30011 zones
+38506240      0x24B8F00       MySQL MISAM compressed data file Version 10
+40102747      0x263EB5B       Minix filesystem, V1, big endian, 30011 zones
+42467154      0x287FF52       Minix filesystem, V1, big endian, 30011 zones
+45828535      0x2BB49B7       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+51991631      0x319544F       Minix filesystem, V1, big endian, 30011 zones
+57648010      0x36FA38A       Minix filesystem, V1, big endian, 30011 zones
+57667649      0x36FF041       Minix filesystem, V1, big endian, 30011 zones
+60415137      0x399DCA1       Minix filesystem, V1, big endian, 30011 zones
+61032478      0x3A3481E       Minix filesystem, V1, big endian, 30011 zones
+64831541      0x3DD4035       Minix filesystem, V1, big endian, 30011 zones
+70375694      0x431D90E       Minix filesystem, V1, big endian, 30011 zones
+75152245      0x47ABB75       Minix filesystem, V1, big endian, 30011 zones
+77898625      0x4A4A381       Minix filesystem, V1, little endian, 30 char names, -15996 zones
+83987902      0x5018DBE       Minix filesystem, V1, big endian, 30011 zones
+96942436      0x5C73964       Minix filesystem, V1, big endian, 30011 zones
+101293494     0x6099DB6       Minix filesystem, V1, big endian, 30011 zones
+104329560     0x637F158       Minix filesystem, V1, big endian, 30011 zones
+105164114     0x644AD52       MySQL MISAM index file Version 1
+107682949     0x66B1C85       Minix filesystem, V1, big endian, 30011 zones
+112595845     0x6B61385       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+115976700     0x6E9A9FC       MySQL ISAM compressed data file Version 1
+

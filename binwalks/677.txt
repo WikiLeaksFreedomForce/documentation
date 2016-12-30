@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+13346839      0xCBA817        StuffIt Deluxe Segment (data): f
+23061297      0x15FE331       Minix filesystem, V1, big endian, 30 char names, 25484 zones
+
