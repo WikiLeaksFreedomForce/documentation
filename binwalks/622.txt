@@ -1,0 +1,5 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+43373164      0x295D26C       lrzip compressed data
+

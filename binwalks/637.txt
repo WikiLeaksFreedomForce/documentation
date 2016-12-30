@@ -1,0 +1,5 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+21859320      0x14D8BF8       mcrypt 2.2 encrypted data, algorithm: blowfish-128, mode: CBC, keymode: 8bit
+

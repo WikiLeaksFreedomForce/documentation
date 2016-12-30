@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+8123619       0x7BF4E3        Microsoft executable, MS-DOS
+14836279      0xE26237        MySQL MISAM index file Version 1
+48397390      0x2E27C4E       Cisco IOS experimental microcode, for "/"
+73988332      0x468F8EC       device tree image (dtb)
+

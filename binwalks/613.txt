@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+17401900      0x109882C       MySQL ISAM index file Version 8
+132007275     0x7DE456B       MySQL MISAM index file Version 2
+

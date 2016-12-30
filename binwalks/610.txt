@@ -1,0 +1,10 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+454172        0x6EE1C         rzip compressed data - version -104.-123 (-788867087 bytes)
+32521037      0x1F03B4D       QNX IFS
+35857112      0x22322D8       gzip compressed data, ASCII, last modified: 2004-03-12 05:33:57
+41421501      0x2780ABD       Microsoft executable, MS-DOS
+53378815      0x32E7EFF       MySQL ISAM compressed data file Version 1
+124362478     0x7699EEE       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+

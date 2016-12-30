@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+20749         0x510D          JPEG image data, JFIF standard 1.01
+104344        0x19798         JPEG image data, JFIF standard 1.01
+73595199      0x462F93F       Microsoft executable, MS-DOS
+

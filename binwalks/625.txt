@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+116383764     0x6EFE014       Minix filesystem, V1, little endian, 23258 zones
+130243156     0x7C35A54       MySQL ISAM index file Version 11
+

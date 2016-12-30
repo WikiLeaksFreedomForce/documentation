@@ -1,0 +1,10 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+7473126       0x7207E6        Microsoft executable, MS-DOS
+16489176      0xFB9AD8        MySQL MISAM compressed data file Version 8
+43244024      0x293D9F8       QNX6 filesystem
+70227051      0x42F946B       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+75325802      0x47D616A       Microsoft executable, MS-DOS
+114884677     0x6D90045       MySQL ISAM index file Version 1
+

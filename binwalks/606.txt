@@ -1,0 +1,10 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+26656314      0x196BE3A       LANCOM OEM file
+72204798      0x44DC1FE       LANCOM OEM file
+88650238      0x548B1FE       MySQL MISAM index file Version 1
+109598367     0x688569F       LANCOM OEM file
+109610699     0x68886CB       LANCOM OEM file
+114903923     0x6D94B73       PARity archive data - file number 18539
+

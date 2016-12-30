@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+28558812      0x1B3C5DC       VMware4 disk image
+90692165      0x567DA45       PARity archive data
+

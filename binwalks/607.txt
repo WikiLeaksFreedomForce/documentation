@@ -1,0 +1,12 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+11554546      0xB04EF2        device tree image (dtb)
+21970568      0x14F3E88       MySQL MISAM compressed data file Version 10
+27161877      0x19E7515       device tree image (dtb)
+41102481      0x2732C91       gzip compressed data, last modified: 1914-10-06 11:34:30 (bogus date)
+72684770      0x45514E2       MPEG transport stream data
+84424347      0x508369B       MySQL MISAM compressed data file Version 9
+104345871     0x638310F       GPG key trust database version 85
+107100631     0x66239D7       gzip compressed data, from FAT filesystem (MS-DOS, OS/2, NT), last modified: 1970-01-01 00:00:00 (null date)
+

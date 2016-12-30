@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+40792117      0x26E7035       MySQL ISAM compressed data file Version 8
+49522450      0x2F3A712       Minix filesystem, V1, little endian, -15656 zones
+57189910      0x368A616       Microsoft executable, MS-DOS
+

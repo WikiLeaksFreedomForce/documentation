@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+20508731      0x138F03B       LANCOM WWAN firmware
+117639872     0x7030AC0       Microsoft executable, MS-DOS
+124872018     0x7716552       MySQL ISAM index file Version 9
+

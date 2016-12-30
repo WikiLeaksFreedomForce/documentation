@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+3385918       0x33AA3E        StuffIt Deluxe Segment (data): f
+22036134      0x1503EA6       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+28533706      0x1B363CA       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+55482795      0x34E99AB       LANCOM OEM file
+69815554      0x4294D02       eCos RTOS string reference: "ecos"
+

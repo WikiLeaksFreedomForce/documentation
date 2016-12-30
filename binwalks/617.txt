@@ -1,0 +1,11 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+19600925      0x12B161D       MySQL ISAM compressed data file Version 4
+30239298      0x1CD6A42       MySQL ISAM index file Version 2
+35736936      0x2214D68       MySQL ISAM compressed data file Version 2
+47678260      0x2D78334       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+74241239      0x46CD4D7       MySQL MISAM index file Version 1
+85344492      0x51640EC       StuffIt Deluxe Segment (data): f
+131385292     0x7D4C7CC       mcrypt 2.2 encrypted data, algorithm: blowfish-128, mode: CBC, keymode: 8bit
+

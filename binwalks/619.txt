@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+17174282      0x1060F0A       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+17317732      0x1083F64       Minix filesystem, V1, little endian, 30 char names, 21430 zones
+

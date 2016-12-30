@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+45214736      0x2B1EC10       PARity archive data - file number 5475
+100398779     0x5FBF6BB       lrzip compressed data
+119037721     0x7185F19       Minix filesystem, V1, little endian, -3885 zones
+121345751     0x73B96D7       Microsoft executable, MS-DOS
+

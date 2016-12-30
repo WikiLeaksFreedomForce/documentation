@@ -1,0 +1,5 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+8201890       0x7D26A2        MySQL ISAM compressed data file Version 1
+

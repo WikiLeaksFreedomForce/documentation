@@ -1,0 +1,13 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+4215266       0x4051E2        gzip compressed data, from FAT filesystem (MS-DOS, OS/2, NT), last modified: 1969-06-18 13:02:56 (bogus date)
+12028908      0xB78BEC        MySQL MISAM index file Version 2
+20072094      0x132469E       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+24939410      0x17C8B92       MySQL ISAM index file Version 2
+40380281      0x2682779       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+43020208      0x2906FB0       MySQL ISAM index file Version 1
+46889384      0x2CB79A8       MySQL ISAM index file Version 3
+58001891      0x37509E3       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+105859306     0x64F48EA       Cisco IOS experimental microcode, for ":"
+

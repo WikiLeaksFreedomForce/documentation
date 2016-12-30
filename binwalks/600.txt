@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+50327337      0x2FFEF29       MySQL MISAM compressed data file Version 1
+69837406      0x429A25E       Linux EXT filesystem, rev 0.0, ext2 filesystem data (mounted or unclean), UUID=94e2fc11-bc8d-1983-f3e7-91734c4f4c4f
+106403985     0x6579891       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+110896091     0x69C23DB       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+

@@ -1,0 +1,11 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+8725943       0x8525B7        MySQL ISAM compressed data file Version 2
+101422280     0x60B94C8       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+112756355     0x6B88683       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+123539804     0x75D115C       Minix filesystem, V1, little endian, -20144 zones
+123539872     0x75D11A0       Minix filesystem, V1, little endian, 15588 zones
+124830114     0x770C1A2       Minix filesystem, V1, little endian, 30 char names, 10133 zones
+124899740     0x771D19C       Microsoft executable, MS-DOS
+

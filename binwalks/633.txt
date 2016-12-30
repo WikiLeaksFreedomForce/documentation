@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+31102603      0x1DA968B       LANCOM OEM file
+40263106      0x2665DC2       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+66788374      0x3FB1C16       GIF image data 2097
+119785895     0x723C9A7       Minix filesystem, V1, little endian, -20647 zones
+

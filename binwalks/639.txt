@@ -1,0 +1,12 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+13939642      0xD4B3BA        MySQL ISAM index file Version 9
+44066911      0x2A0685F       Microsoft executable, MS-DOS
+49214039      0x2EEF257       MySQL ISAM index file Version 9
+76044865      0x4885A41       Cisco IOS experimental microcode, for ""
+76304342      0x48C4FD6       MySQL MISAM index file Version 5
+78249706      0x4A9FEEA       gzip compressed data, last modified: 1995-01-22 21:11:04
+85289163      0x51568CB       gzip compressed data, last modified: 1995-01-22 21:11:04
+116978138     0x6F8F1DA       MySQL MISAM compressed data file Version 3
+

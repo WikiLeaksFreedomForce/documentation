@@ -1,0 +1,10 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+7992904       0x79F648        mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+21635605      0x14A2215       MySQL ISAM index file Version 10
+27203016      0x19F15C8       MySQL MISAM compressed data file Version 1
+56171519      0x3591BFF       MySQL ISAM index file Version 1
+76377293      0x48D6CCD       gzip compressed data, has 22840 bytes of extra data, last modified: 1969-12-31 02:43:35 (bogus date)
+110035021     0x68F004D       gzip compressed data, has header CRC, has 32604 bytes of extra data, has comment, last modified: 2001-10-25 10:36:32
+

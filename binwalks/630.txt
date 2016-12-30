@@ -1,0 +1,74 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+1580791       0x181EF7        VMware4 disk image
+10299156      0x9D2714        MySQL ISAM compressed data file Version 2
+34194751      0x209C53F       MySQL MISAM index file Version 2
+99165199      0x5E9240F       Microsoft executable, MS-DOS
+99165535      0x5E9255F       Microsoft executable, MS-DOS
+99167217      0x5E92BF1       Microsoft executable, MS-DOS
+99168313      0x5E93039       Microsoft executable, MS-DOS
+99169187      0x5E933A3       Microsoft executable, MS-DOS
+99169221      0x5E933C5       Microsoft executable, MS-DOS
+99169321      0x5E93429       Microsoft executable, MS-DOS
+99170165      0x5E93775       Microsoft executable, MS-DOS
+99171769      0x5E93DB9       Microsoft executable, MS-DOS
+99171939      0x5E93E63       Microsoft executable, MS-DOS
+99172809      0x5E941C9       Microsoft executable, MS-DOS
+99173281      0x5E943A1       Microsoft executable, MS-DOS
+99173413      0x5E94425       Microsoft executable, MS-DOS
+99175091      0x5E94AB3       Microsoft executable, MS-DOS
+99175789      0x5E94D6D       Microsoft executable, MS-DOS
+99177781      0x5E95535       Microsoft executable, MS-DOS
+99177983      0x5E955FF       Microsoft executable, MS-DOS
+99179773      0x5E95CFD       Microsoft executable, MS-DOS
+99180349      0x5E95F3D       Microsoft executable, MS-DOS
+99182541      0x5E967CD       Microsoft executable, MS-DOS
+99183925      0x5E96D35       Microsoft executable, MS-DOS
+99184563      0x5E96FB3       Microsoft executable, MS-DOS
+99185735      0x5E97447       Microsoft executable, MS-DOS
+99185967      0x5E9752F       Microsoft executable, MS-DOS
+99188637      0x5E97F9D       Microsoft executable, MS-DOS
+99188839      0x5E98067       Microsoft executable, MS-DOS
+99190185      0x5E985A9       Microsoft executable, MS-DOS
+99190519      0x5E986F7       Microsoft executable, MS-DOS
+99191727      0x5E98BAF       Microsoft executable, MS-DOS
+99192099      0x5E98D23       Microsoft executable, MS-DOS
+99192329      0x5E98E09       Microsoft executable, MS-DOS
+99193233      0x5E99191       Microsoft executable, MS-DOS
+99193769      0x5E993A9       Microsoft executable, MS-DOS
+99194005      0x5E99495       Microsoft executable, MS-DOS
+99194369      0x5E99601       Microsoft executable, MS-DOS
+99194873      0x5E997F9       Microsoft executable, MS-DOS
+99195311      0x5E999AF       Microsoft executable, MS-DOS
+99195615      0x5E99ADF       Microsoft executable, MS-DOS
+99197537      0x5E9A261       Microsoft executable, MS-DOS
+99197603      0x5E9A2A3       Microsoft executable, MS-DOS
+99197705      0x5E9A309       Microsoft executable, MS-DOS
+99199661      0x5E9AAAD       Microsoft executable, MS-DOS
+99199795      0x5E9AB33       Microsoft executable, MS-DOS
+99200133      0x5E9AC85       Microsoft executable, MS-DOS
+99203419      0x5E9B95B       Microsoft executable, MS-DOS
+99203985      0x5E9BB91       Microsoft executable, MS-DOS
+99204987      0x5E9BF7B       Microsoft executable, MS-DOS
+99205723      0x5E9C25B       Microsoft executable, MS-DOS
+99206029      0x5E9C38D       Microsoft executable, MS-DOS
+99206063      0x5E9C3AF       Microsoft executable, MS-DOS
+99208429      0x5E9CCED       Microsoft executable, MS-DOS
+99208691      0x5E9CDF3       Microsoft executable, MS-DOS
+99209705      0x5E9D1E9       Microsoft executable, MS-DOS
+99210279      0x5E9D427       Microsoft executable, MS-DOS
+99210617      0x5E9D579       Microsoft executable, MS-DOS
+99210751      0x5E9D5FF       Microsoft executable, MS-DOS
+99211155      0x5E9D793       Microsoft executable, MS-DOS
+99213167      0x5E9DF6F       Microsoft executable, MS-DOS
+99213839      0x5E9E20F       Microsoft executable, MS-DOS
+99215309      0x5E9E7CD       Microsoft executable, MS-DOS
+99215343      0x5E9E7EF       Microsoft executable, MS-DOS
+99215919      0x5E9EA2F       Microsoft executable, MS-DOS
+99216089      0x5E9EAD9       Microsoft executable, MS-DOS
+99216257      0x5E9EB81       Microsoft executable, MS-DOS
+99216787      0x5E9ED93       Microsoft executable, MS-DOS
+99217995      0x5E9F24B       Microsoft executable, MS-DOS
+122814392     0x751FFB8       gzip compressed data, last modified: 2032-10-14 06:58:08
+

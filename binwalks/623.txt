@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+205307        0x321FB         QNX6 filesystem
+28393772      0x1B1412C       MySQL ISAM compressed data file Version 2
+56486283      0x35DE98B       Minix filesystem, V1, big endian, 30 char names, 8214 zones
+

@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+24867594      0x17B730A       Minix filesystem, V1, little endian, 1059 zones
+52158455      0x31BDFF7       MySQL MISAM compressed data file Version 2
+68395873      0x413A361       MySQL MISAM compressed data file Version 2
+100826713     0x6027E59       MySQL MISAM compressed data file Version 3
+

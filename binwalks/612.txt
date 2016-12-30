@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+23724930      0x16A0382       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+34000057      0x206CCB9       MySQL MISAM compressed data file Version 11
+34182513      0x2099571       Microsoft executable, MS-DOS
+

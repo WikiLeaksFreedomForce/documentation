@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+8347139       0x7F5E03        Cisco IOS microcode, for "6"
+26305399      0x1916377       MySQL MISAM index file Version 1
+41001643      0x271A2AB       QNX IFS
+
