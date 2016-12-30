@@ -1,0 +1,24 @@
+(Partial) Private keys found in namecoin/blk0001.dat
+
+```
+-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAvEzsPuB4Mu9V8fd+5OrT5xLqlG/VxSautvqupIrgqQT7Ssl+
+vbCkTx2fqfuF//mqzuYH8E68qgUZo94Ox/2wSEtyohVKqdZ0ZGOmmbqFY4qv82N9
+ro35LEEXYjpmFPJKxAPVuIfECqCOZ6NAd5ESyU74/o/DT0VfS/JhSuXyOsagxZQ+
+8orlJfYndCXRgAWtNkSFv5ytGA7YAs6X71qn6vIrQZbpcWob48TUcV7lX0ib+beS
+5osNxyOgYOzohYb6US9GRtGbgQ4y5qbgNEhhLIW0dlLJ+6sglIEjz8CULlMKrZAT
+GEdU2Jhr2cWQO2YnSQJwwQjvmPl/SlubUIxyUQIDAQABAoIBAGGd4y9pgQauymuv
+```
+```
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA414NpDADwmi3Z0rX0v8seeODr5CsyDckL0wspIfVGADeDTOx
+/80o6He74j1910qhVYSlaqRuB/eWyFWPlwcSLAVeG0Z35r1kYLDHR7tKhWqwZmWN
+5fu2Vs18QUOtzuUx6UGKfamRuDLwIPhHIUoCTKnukpU3XONhuRL/Y6SigyyXRAyJ
+wsIAfbZzJ4JMz7lru3r+MWmROpM2MG30t2fOn/QOf2M+SBj4q3wZCKq9I6nZv41M
+/6i0U4Aw40+Sp+b2n+N6Ab+rqRj/VnjksAmzK7RmBj24y3s128xj2pLq63oj3Dix
+gaaHKXqXzJ4CR9jziea8iZw7iF5PvXk5ETqITQIDAQABAoIBAQCtUNOrNaKX/kTX
+6xhL0ZHws/p8yRa8ZDQkDbf2D0jjzD136NElwhkN47+HvQIBKmuv
+```
+
+
+THE LAST 3 CHARACTERS "muv" might be artifacts / might not actually belong to the key
