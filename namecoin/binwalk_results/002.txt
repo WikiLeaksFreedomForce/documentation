@@ -1,0 +1,107 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+13116234      0xC8234A        mcrypt 2.2 encrypted data, algorithm: DES, mode: CBC, keymode: 8bit
+13285525      0xCAB895        OpenSSH ECDSA (Curve P-256) public key
+103706914     0x62E7122       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+122495953     0x74D23D1       MySQL MISAM index file Version 1
+127567995     0x79A887B       gzip compressed data, ASCII, maximum compression, last modified: 1969-12-31 23:59:59 (bogus date)
+132266829     0x7E23B4D       MySQL ISAM index file Version 1
+176730700     0xA88B24C       Minix filesystem, V1, little endian, 18275 zones
+213757754     0xCBDAF3A       QNX IFS
+245199199     0xE9D715F       Unix path: /usr/local/bin/uvfy","-l","halloween_backup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-conf=/etc
+250129053     0xEE8AA9D       Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-conf=/etc/nameco
+250172758     0xEE95556       Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"23773","sha256sum":"0f942fe3f
+251012155     0xEF6243B       Unix path: /usr/local/bin/uvfy","-p","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-conf=/etc/n
+251017647     0xEF639AF       Unix path: /usr/local/bin/uvfy","size":"23775","sha256sum":"f0766b3103e83d729f2b3e46b1e906fd4207664c8cbc4cacbd801248d731f93b"},{"cmd":["df"
+251026496     0xEF65C40       Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"cmd":["dar","-qMzxz","-Z*.png","-Z*.jpg","-Z*.bz2","-Z*.gz","-QNn","-3sha512","-chlwn_b"
+251393496     0xEFBF5D8       Unix path: /usr/local/bin/uvfy","-p","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-conf=/etc/n
+251417313     0xEFC52E1       Unix path: /usr/local/bin/uvfy","-p","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-conf=/etc/n
+251420098     0xEFC5DC2       Unix path: /usr/local/bin/uvfy","size":"24091","sha256sum":"c08b587b957a9bce5aa90b6dc68e0578f9a2583a9b10c730c1809d2b4f17083f"},{"cmd":["git
+257110714     0xF5332BA       Minix filesystem, V1, little endian, 5000 zones
+268039288     0xFF9F478       Cisco IOS microcode, for ""
+277959344     0x109152B0      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-conf=/etc/nameco
+282104142     0x10D0914E      MySQL ISAM compressed data file Version 8
+284012425     0x10EDAF89      Minix filesystem, V1, little endian, 30 char names, -19223 zones
+285523135     0x1104BCBF      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+285526958     0x1104CBAE      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.5  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"c768f4d
+285599046     0x1105E546      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+285603988     0x1105F894      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+285606049     0x110600A1      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.5  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"c768f4d
+285606285     0x1106018D      Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"file":"hlwn_bkup-1456661106.03.json","sha256sum":"6fb39d36e7da3a37630f1f4b5113ee26d2f9a"
+285619738     0x1106361A      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.5  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"c768f4d
+285806495     0x11090F9F      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+287100070     0x111CCCA6      OpenSSH ECDSA (Curve P-256) public key
+288708165     0x11355645      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+295495211     0x119CE62B      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+295495447     0x119CE717      Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"file":"hlwn_bkup-1457082298.03.json","sha256sum":"33271fc9785ef03463e8786685b15c94b54e1"
+303588223     0x1218637F      Minix filesystem, V1, little endian, -8046 zones
+303907210     0x121D418A      MySQL MISAM index file Version 6
+307625672     0x1255FEC8      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+307629703     0x12560E87      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+308682317     0x12661E4D      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+308703485     0x126670FD      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","litelog.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"],"o
+308846010     0x12689DBA      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+309084476     0x126C413C      OpenSSH ECDSA (Curve P-256) public key
+310161785     0x127CB179      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","encsec.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"],"ou
+310163397     0x127CB7C5      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+310164312     0x127CBB58      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+312364894     0x129E4F5E      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+312375359     0x129E783F      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+312378004     0x129E8294      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+312378240     0x129E8380      Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"file":"hlwn_bkup-1459327188.03.json","sha256sum":"5f60b7d4b882112cd45fc4d1c32fdb71ded86"
+312379671     0x129E8917      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup-000002","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=
+312381463     0x129E9017      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+312395426     0x129EC6A2      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+312419878     0x129F2626      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+312421424     0x129F2C30      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+312699863     0x12A36BD7      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+314284562     0x12BB9A12      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+314287496     0x12BBA588      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+314292739     0x12BBBA03      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup-000006-base","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spoo
+314295063     0x12BBC317      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+314341857     0x12BC79E1      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+314349007     0x12BC95CF      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+314360984     0x12BCC498      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+314380809     0x12BD1209      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+314381045     0x12BD12F5      Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"file":"hlwn_bkup-1459774275.03.json","sha256sum":"c7ba35e5a6f9df0444da875c1e4100d463c83"
+314382539     0x12BD18CB      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+314382775     0x12BD19B7      Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"file":"hlwn_bkup-1459774275.03.json","sha256sum":"c7ba35e5a6f9df0444da875c1e4100d463c83"
+314388453     0x12BD2FE5      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup-000007-keepassx","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-
+314390496     0x12BD37E0      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+315067920     0x12C78E10      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+315070432     0x12C797E0      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+315072178     0x12C79EB2      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+315072414     0x12C79F9E      Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"file":"hlwn_bkup-1459786554.03.json","sha256sum":"9f3a096a4137f9f5ce7936b1effdca244b3d2"
+315279449     0x12CAC859      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+315281760     0x12CAD160      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+315281996     0x12CAD24C      Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"file":"hlwn_bkup-1459909219.03.json","sha256sum":"9312c371fe78d3b79eb942a16addada4f2060"
+315290862     0x12CAF4EE      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup-000008-ant-and-hard...","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_bac
+315292604     0x12CAFBBC      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+315306267     0x12CB311B      Unix path: /usr/local/bin/uvfy","-l","hlwn_bkup","-xf","-x","sha256sum","-s","520","store-namecoin","h/halloween_backup","-spooldir=/var/sp
+315308045     0x12CB380D      Unix path: /usr/local/bin/uvfy","-V"],"out":"uvfy 0.2.7  https://github.com/xloem/uvfy"},{"file":"uvfy","size":"24087","sha256sum":"7f2b635
+315308281     0x12CB38F9      Copyright string: "Copyright (C) 2002-2052 Denis Corbin"},{"file":"hlwn_bkup-1459936404.03.json","sha256sum":"dad0aeee0741b29e4bc98fa01326fe243bc44"
+316981975     0x12E4C2D7      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+316983850     0x12E4CA2A      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+319266955     0x1307A08B      Minix filesystem, V1, little endian, -18750 zones
+321119687     0x1323E5C7      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+321125224     0x1323FB68      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+321189124     0x1324F504      OpenSSH ECDSA (Curve P-256) public key
+334883041     0x13F5E8E1      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+334883922     0x13F5EC52      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+340425095     0x144A7987      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","everything.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+340427417     0x144A8299      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+341366470     0x1458D6C6      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","karl_annex.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"]
+341367378     0x1458DA52      Unix path: /usr/local/bin/uvfy","-x","sha256sum","-l","litelog.git","invocation","--","git-status"]},{"cmd":["/usr/local/bin/uvfy","-V"],"o
+345064563     0x14914473      PGP armored data, message
+402730158     0x18012CAE      StuffIt Deluxe Segment (data): f19
+474093446     0x1C421786      MySQL MISAM index file Version 2
+481016902     0x1CABBC46      MySQL MISAM compressed data file Version 5
+496859013     0x1D9D7785      mcrypt 2.2 encrypted data, algorithm: DES, mode: CBC, keymode: 8bit
+507707130     0x1E42FEFA      rzip compressed data - version 13.114 (-1858833664 bytes)
+511576402     0x1E7E0952      MySQL ISAM index file Version 1
+543769796     0x206944C4      MySQL ISAM index file Version 2
+563055024     0x218F89B0      Minix filesystem, V1, little endian, 16166 zones
+581596016     0x22AA7370      OpenSSH ECDSA (Curve P-256) public key
+639503361     0x261E0C01      Linux EXT filesystem, rev 0.0, ext2 filesystem data, UUID=00000000-0000-0000-0000-000000000000
+
