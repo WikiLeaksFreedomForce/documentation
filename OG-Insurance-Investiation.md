@@ -44,7 +44,7 @@ Partial binwalk results for select cyphers:
 
 [-aes-256-cbc](https://github.com/WikiLeaksFreedomForce/documentation/blob/master/binwalks.md#cbc)
 [-aes-256-cfb8](https://github.com/WikiLeaksFreedomForce/documentation/blob/master/binwalks.md#cfb8)
-[-aes-256-cfb](https://github.com/WikiLeaksFreedomForce/documentation/blob/master/binwalks.md#cfb
+[-aes-256-cfb](https://github.com/WikiLeaksFreedomForce/documentation/blob/master/binwalks.md#cfb)
 [-aes-256-cfb1](https://github.com/WikiLeaksFreedomForce/documentation/blob/master/binwalks.md#cfb1)
 
 
