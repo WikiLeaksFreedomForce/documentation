@@ -1,1 +1,26 @@
+# Investigating `insurance.aes256` from 2010
 
+Torrent: magnet:?xt=urn:btih:ed6fcad4d2ec8086be56e72f37497475bbc137f1&dn=WikileaksWarDiaryInsurance
+
+Decrypt using
+
+
+```
+$ openssl enc -d [CYPHER HERE] -in insurance.aes256 -out decrypted.file
+```
+
+Available cyphers:
+```
+-aes-256-cbc
+-aes-256-cbc-hmac-sha1
+-aes-256-cbc-hmac-sha256
+-aes-256-ccm
+-aes-256-cfb
+-aes-256-cfb1
+-aes-256-cfb8
+-aes-256-ctr
+-aes-256-ecb
+-aes-256-gcm
+-aes-256-ofb
+-aes-256-xts
+```
