@@ -1,4 +1,4 @@
-Investiagtion into the namecoin chain
+# Investigation into the namecoin chain
 
 
 Binwalk for namecoin blk0001.dat returned 
