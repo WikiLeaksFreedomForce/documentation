@@ -1,1 +1,1 @@
-Binwalks over the BLK00***.dat files
+Binwalks over the Bitcoin BLK00***.dat files
