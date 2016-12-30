@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41328640      0x276A000       Minix filesystem, V1, little endian, 6447 zones
+66025487      0x3EF780F       QEMU QCOW Image
+81121199      0x4D5CFAF       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+99549646      0x5EF01CE       MySQL MISAM index file Version 2
+120229107     0x72A8CF3       Minix filesystem, V1, big endian, 11819 zones
+

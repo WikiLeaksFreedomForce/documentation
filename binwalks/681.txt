@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+21518761      0x14859A9       MySQL ISAM index file Version 1
+56503853      0x35E2E2D       Cisco IOS experimental microcode, for "h"
+126554558     0x78B11BE       MySQL ISAM compressed data file Version 11
+129496593     0x7B7F611       MySQL ISAM compressed data file Version 11
+

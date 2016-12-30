@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+2095879       0x1FFB07        PARity archive data - file number 28949
+27036153      0x19C89F9       MySQL ISAM index file Version 5
+50504069      0x302A185       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+54837364      0x344C074       mcrypt 2.2 encrypted data, algorithm: blowfish-128, mode: CBC, keymode: 8bit
+111468424     0x6A4DF88       MySQL ISAM compressed data file Version 1
+

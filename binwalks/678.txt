@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+7632219       0x74755B        MySQL ISAM compressed data file Version 1
+19885627      0x12F6E3B       MySQL ISAM index file Version 2
+34965985      0x21589E1       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+101862744     0x6124D58       MySQL MISAM index file Version 1
+104249106     0x636B712       Cisco IOS experimental microcode, for ""
+

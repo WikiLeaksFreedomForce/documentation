@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+19930100      0x1301BF4       MySQL MISAM index file Version 2
+30509739      0x1D18AAB       MySQL MISAM index file Version 8
+73018552      0x45A2CB8       Cisco IOS experimental microcode, for "`q"
+125478862     0x77AA7CE       MySQL ISAM index file Version 6
+133597686     0x7F689F6       COBALT boot rom data (Flat boot rom or file system)
+

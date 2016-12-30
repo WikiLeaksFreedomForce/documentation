@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+12287200      0xBB7CE0        MySQL MISAM index file Version 8
+19763888      0x12D92B0       MySQL MISAM compressed data file Version 5
+23133492      0x160FD34       JPEG image data, JFIF standard 1.01
+

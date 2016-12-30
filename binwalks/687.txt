@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+99096594      0x5E81812       MySQL MISAM index file Version 2
+120118365     0x728DC5D       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+124322873     0x7690439       MySQL MISAM index file Version 2
+

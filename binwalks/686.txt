@@ -1,0 +1,11 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+19445476      0x128B6E4       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+23361680      0x1647890       MySQL MISAM index file Version 1
+23729410      0x16A1502       MySQL MISAM index file Version 1
+31356363      0x1DE75CB       StuffIt Deluxe Segment (data): f
+76472018      0x48EDED2       MySQL MISAM index file Version 4
+122262554     0x749941A       Minix filesystem, V1, little endian, -31519 zones
+125996799     0x7828EFF       Windows Script Encoded Data (screnc.exe)
+

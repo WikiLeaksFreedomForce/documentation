@@ -1,0 +1,9 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+19165973      0x1247315       End of Zip archive, footer length: -29722
+51511766      0x31201D6       MySQL MISAM index file Version 3
+68293427      0x4121333       QNX IFS
+100423552     0x5FC5780       Cisco IOS microcode, for ""
+101336193     0x60A4481       Microsoft executable, MS-DOS
+
