@@ -6,7 +6,7 @@ Documentation, todos, leads to follow
 ## Non-coder TODOs
 
 - [ ] Obtain the WL insurance files and check their SHA256 hashes against our list of reference hashes
-    - See [this file](https://github.com/WikiLeaksFreedomForce/documentation/insurance-files/sha256-hashes.md) for more information.
+    - See [this file](https://github.com/WikiLeaksFreedomForce/documentation/blob/master/insurance-files/sha256-hashes.md) for more information.
 - [ ] Run `binwalk` on all of the WL insurance files
     - Get binwalk here: <https://github.com/devttys0/binwalk/>
 - [ ] Search for interesting transaction chains
