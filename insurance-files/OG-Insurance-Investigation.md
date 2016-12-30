@@ -29,7 +29,7 @@ Available cyphers
 -aes-256-xts
 ```
 
-#Scanning the decrypted file for file headers and other information
+# Scanning the decrypted file for file headers and other information
 
 Install [Binwalk](https://github.com/devttys0/binwalk/), a tool to find file headers, signatures and other pieces of information in raw data.
 
