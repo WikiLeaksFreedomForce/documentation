@@ -12,3 +12,11 @@ Documentation, todos, leads to follow
 - [ ] Search for interesting transaction chains
     - Use our [local-blockchain-parser](https://github.com/WikiLeaksFreedomForce/local-blockchain-parser)'s `tx-chain` command.  The command will find chains, run an analysis on all of the transactions in a given chain, and output a folder containing the results and the list of transactions.  Add that folder to this repo when you find an interesting chain.
 
+## Informational links and articles
+
+- [WikiLeaks insurance file torrent mirror](https://ftwtech.us/wikileaks/)
+- [WikiLeaks insurance file torrent mirror #2](https://wiki.installgentoo.com/index.php/Wiki_Backups)
+- [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+- [Peter Todd's article on OpenTimestamps](https://petertodd.org/2016/opentimestamps-announcement#fn:hello-world-address)
+- [How to use GPG on the command line](http://blog.ghostinthemachines.com/2015/03/01/how-to-use-gpg-command-line/)
+- [GPG cheat sheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/gpg-cs.html)

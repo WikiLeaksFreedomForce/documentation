@@ -1,0 +1,265 @@
+need to search each output script individually with trid that was sent TO the wikileaks address by some address, and in particular the time frame of 10/17 to 10/29
+
+his dead man's switch was "check in by the end of the day on friday"
+
+lowest number of transactions + highest fees + 0.0000000001 amounts paid (or close to 0 as possible because it is blackholed money since the data dictates the destination address and you don't have the priv key for the destination address)
+
+and yes output scripts less than 40 are significant as well, because they do not un-hash (so to speak) to a valid address
+also any output hex that is an ODD number is suspect
+
+you can hide small shit, like keys or a text document inside a zip file (really small 2kb footprint)
+
+the output script looks like this
+"OP_DUP OP_HASH160 9f2fe1c79fefbc6166a906fc4fdadc61a08709fa OP_EQUALVERIFY OP_CHECKSIG"
+if you take the hex string portion only:
+9f2fe1c79fefbc6166a906fc4fdadc61a08709fa
+and use it on this website:
+http://bitcoinvalued.com/tools.php
+
+put that string into the top right field.  hit convert
+Result: BitCoin address: 1FWhoQ3scrAPh7M7uy4jsk7VCNTe3vZeVL
+
+This 9f2fe1 string is the hash160 of wallet 1FWhoQ3
+
+Example: Looking at a transaction
+"c234056fd6cc3bad6f51945e36893affc5493e824cfc3e90b51860a24f069a80"
+you'll see that part of the transaction was sent to the wallet named:
+"1FWhoQ3scrAPh7M7uy4jsk7VCNTe3vZeVL"
+https://blockchain.info/tx/c234056fd6cc3bad6f51945e36893affc5493e824cfc3e90b51860a24f069a80
+
+what has happened here is that the wallet 1FWhoQ3scrAPh7M7uy4jsk7VCNTe3vZeVL has received part of the UTXO (unspent transaction) from the sender
+
+this transaction *proves* that
+
+hell it was confirmed 20000 times or whatever
+
+"27401 Confirmations"
+
+so now the 1FWhoQ wallet may spend what they received - they are now able to spend it without throwing red flags
+
+1FWhoQ has to put the right shit in the input scripts (bunch of version and shit and that's the input script and is basically automated by the wallet and cannot fuck up because it has to have the wallet's key to be able to spend the transaction out of the wallet)
+
+and also 1FWhoQ will put the recipient's HASH160 into the output scripts
+
+there will be one output script per recipient address
+
+so if i wanted to send a file to the blockchain, i would have to send it to the addresses that my data dictates.  because the data is in a particular order that creates the original file.
+
+so if the first 20 bytes were ABCDABCDABCDABCDABCDABCD then it would send to this address: BitCoin address: 1NDUKKcNpLnAwcozASKSa11
+and that is because 1NDUKK's hash160 value is ABCDABCDABCDABCDABCDABCD
+
+if I don't own 1NDUKKcNpLnAwcozASKSa11, then I'm basically throwing money away because i can't send it out from the 1NDUKK wallet because i don't own that wallet because i don't have the private key and that is the most major part of the input script that allows the confirmations to occur(edited)
+
+therefore the amount I send will be very, very small.  but i may allow a big transaction fee (as a bounty) to make sure that transaction is confirmed and included in the blockchain quickly
+
+and the way bitcoin works, when I send it, I have to send from only sources of unspent transactions.  If I wanted to give you 1BTC and I had 10BTC, but I didn't have any unspent transaction in my wallet that was exactly 1BTC, then I'd have to send you chunks (for example 0.3 and 0.25 and 0.21 and 0.24) or i'd send you an amount larger than what i'm trying to send you if my smallest unspent transaction was one that i had received that was 2BTC.  So my 10BTC wallet might be filled with four transactions -> 2BTC + 5BTC + 0.5BTC + 2.5BTC
+and if i had to send you 2BTC, I'd want my 1BTC in change.  so i have to include that as a recipient.  i can choose to have it come back to my own wallet (if my wallet software allows and handles that properly) or i could give it another wallet that my wallet software automatically generated
+
+Transactions that have 911 in the value are significant because they are an SOS.
+
+Files will be in large transactions like this one, but where the recipient amount was minimal
+
+The best example is how Cablegate is stored:
+
+"John Robb @johnrobb
+
+Some guy just put 2.5 Mb of Wikileaks cables into the Bitcoin blockchain. It's out there forever now. Very cool use of the tech.
+2:45 AM - 24 Apr 2013"
+
+the cablegate transaction is here:
+
+"6c53cd987119ef797d5adccd76241247988a0a5ef783572a9972e7371c5fb0cc"
+
+If you go to that transaction here: https://blockchain.info/tx/6c53cd987119ef797d5adccd76241247988a0a5ef783572a9972e7371c5fb0cc
+
+you'll see that basically $0 was transferred to each of those addresses
+
+if you click the address that received most of the money (which was "change") then you'll see that it has a transaction sending out to more addresses and then it gets change back to a wallet, and then you can click that wallet and continue down and down and down
+
+that money gets blackholed unless you have the private key for the wallet; therefore it would not be wise to send a whole lot of BTC when you're uploading data.  it could get expensive, and there is a way to not have to spend a whole lot.
+
+data will only ever be included in transactions where the bitcoin is blackholed
+
+you want it to be a very low amount, 0.00001, having been sent to a non-existent wallet (or escrow) but it looks like a real wallet, but it ain't.  If it is to an "escrow" then that means they stored more than 40hex in the output script - and therefore is a red flag that can be examined further to determine if it is suspect enough to get the data together
+
+look
+-"028dccef4b3e3a36874859f472de863919a5bc36acee1aa4f8d423459b54ad3654 0271e666a57da6c7a339699682eb7ed85afa28eacc92a55de0bbd1b71f0936e471 021f553432363133372e3134313120202020202020202020202020202020202020
+
+028dccef4b3e3a36874859f472de863919a5bc36acee1aa4f8d423459b54ad3654 021f47fd18011f8b080000000000000015cfc98e82300080e177e97548180610e1 021fd652ad04cb5010b79818b6a9e04a65118cef3e7afd0f5ff23f419b0b602912
+
+028dccef4b3e3a36874859f472de863919a5bc36acee1aa4f8d423459b54ad3654 021f68b3fd3daf81f504692eea7d230a60812cae634ba20ef9a3f09bd861454227 021f51319b20c8220835e2416ca382b98833bbc3f384795434b2a9a657e2db8fe4
+
+028dccef4b3e3a36874859f472de863919a5bc36acee1aa4f8d423459b54ad3654 021f586de5d5e69ea625fe09cc50d7e84eec2e49c8d767aa19bf1a21277ff85a5f 021f51b46a8a603b73d9ad2f165169b6ad3e1ae2d10d578bd6770f86a33fb2a9e2
+
+028dccef4b3e3a36874859f472de863919a5bc36acee1aa4f8d423459b54ad3654 021fd165e7294a94696d538f6b43de381f4f653a0adab5599eb444c7f999473de9
+3331c8aedfab6336e3069df817c49d21ee357b5a4ee71ebf2d8fa2ea1c0c19441f0348203ef1ebfb9962bd2bea431042f092407acede6d89c1eb1fe6788b182b010000
+
+a9da0766d0f0d7dc35f54e8c8c14a26480a7798e"
+-028dccef4b repeating through and through until.............................................................
+
+obviously the last line is the end of it
+
+the php script that i saw was one that allowed you to hand-enter the data from the output scripts
+-it would unhex + concatenate
+-it gave you total control over what file you built
+
+copy/paste the data into the $data01, $data02, etc variables.  Adjust the variable array to the number of variables you used as data......  check the output filename......  run it
+
+this is definitely data
+https://blockchain.info/tx/a3b451b8d6baad61fa38ea18273eb85c8ed6d8c15a72e59d54a65c1c7d366675
+
+this is a file https://blockchain.info/tx/12ce0f2dbd2579a0c291b9e5d30f11783e7ccba4d63114a1bca7711f3aa72ce2 or message
+
+definitely a file here https://blockchain.info/tx/ca933de16b6466e40b37c7ee0ec0dcd9a56bc365a567a5fff81ba4927dd61e23
+
+-okay so
+-on twitter, julian handled the twitter account
+-the wikileaks account
+-@wikileaks
+-this guy, kelly kolisnik, is a volunteer
+-let me grab this picture real quick to share
+
+this occurred less than 3 hours after it was announced that his internet was cut, and it was in the morning time
+-in the UK
+-can you look at that picture
+very good do you see anything about it
+-does it give you any feeling that julian is trying to communicate?
+
+-two of them
+-one of them with a coerced SMILE or with a coerced ANGRY LOOK
+-directly awake, 3 comb swipes
+-2nd photo is "your son has a gun to his head, here is a video of that, now smile or he dies"
+-the precommits go out
+https://blockchain.info/address/1AfdbCzDrRrMEqAXkF8kxVRCkPzB8HxoHD
+-who was kelly, and who was WLTaskForce
+-why did they start asking for donations like crazy
+-can you tell the first tweet that was not sent by julian?
+-Kelly Kolisnik is "the cipher key" is "crypto" is some other shit
+-when you are born
+-you do not choose your last name
+-but when you get older, you might
+-or a name might be made up
+-who knows
+-i'll say thi
+-s
+-first thing when the pre-commitments hit
+-i retweeted the fuck out of them
+-you must realize that those 64 hex characters are 32 bytes of identity of a file that had been sent to each of kerry, uk fco, and ecuador, and he was referencing to it because kerry had moved on him
+-it was a threat of: "fucking cut my internet off motherfucker, see what happens"
+-and it was settled businesss
+-because then he was still perturbed and talked about the google lawsuit
+-kelly is a spook man
+-alright so you have that knowledge and you also noticed that kelly talked about how those were keys
+-disinfo or like, incompetence?
+-he's yanked out of bed and forced to take 2 photos
+-or that gavin was going to die early
+-JA has no internet and has been taken
+-what does the DMS do?
+-why is the answer, "check end by the end of friday"   ???
+-bottom line is that the DDoS occurred
+-5 terabits per second
+-enough to like melt cat6e cabling
+-why did that happen
+-you've had JA in custody
+-how did it still go off?
+-JA wasn't the person who had to check in
+-with the software
+-JA -> <someone> -> DMS
+-was gavin local?
+-anyway
+-JA was locked up in the embassy
+-at what point would a DMS consider JA fully compromised?
+-is too sensitive, that is too long
+-3 days
+-we will talk on wednesday, and if i don't hear from you by friday, this shit goes off
+-by end of day friday
+-that way i have 2 days to get to the embassy
+-once put in motion, it triggers continuously
+-like a message in /var/spool on a sendmail server
+-retry in 5 seconds, 10 seconds, 30 seconds, 1 minute, 5 minutes, 15 minutes, 30 minutes, 1 hour, 4 hours, 1 day, 1 day, 1 week, 1 week, bounce
+-find it
+-thanks
+-is that the one that decodes to
+-"CNTRPRTYS§û"@TáG®{
+BTC /USD Price"
+https://blockchain.info/address/1AuuK1jUvk9BfahEzVLY6FfTGRETLuXvxn
+-okay so like
+-why was it firing on 10/9
+-that wallet was firing off since 10/19 but there were others firing to it
+-a third person is not required
+-if you had to get to the embassy because you didn't hear from him on wednesday
+-you could put your shit on a timer
+-that you can stop when you return safely
+-https://www.reddit.com/r/The_Donald/comments/5740ib/stochastic_terminator_wikileaks_algorithm_may/d92nla6/
+
+-the timeline is super important
+-like
+-we have updated our algorithm
+
+"0d4634fc5d4e8a6bca6693e3a3e143d4ae5259a0863182868a5dd66d2c6a153a 2016-11-18 19:17:28 from WL -> 13LBg
+48813e2cae0e2d89467b0862dadb719a318cdeceb4ddfda192713a0ffee84a04 2016-11-18 19:17:09 from WL -> 13LBg
+4527e336429aacf99742eb778d3b94773ae0910788615b75246676952a6772b1 2016-11-18 19:15:45 from WL -> 13LBg
+20e87cfdbfab4f7fe2eb722223b7907d50b666999aa6e3e310eebf42d433f8f4 2016-11-18 19:15:27 from WL -> 13LBg
+8d7f6d3ed8cde896871b2f31b249c2ba13181926986e5f924921b8a62ac407b8 2016-11-18 19:15:16 from WL -> 13LBg
+b1da6b70d619456482fa078bd8255604bcf876ef41d7197cab5f3e492f68bf03 2016-11-18 19:14:57 from WL -> 13LBg
+0d5ccbd23b63604ed91a4967c0d00b96a5e086a29fa3f0aba4e0def2ebd4fd67 2016-11-18 19:11:05 from WL -> 13LBg
+f511bfc7ae2aadabec19df24c6b6a9c982b518577baddb70ed8a4e02367df9e3 2016-11-18 19:10:27 from WL -> 13LBg
+4e1770b54feee362ad9b313d76f05323ad4275c6544584a3fda6a37390de268d 2016-11-18 19:09:46 from WL -> 13LBg
+a398d798f9c1bf40908e6ae65be9514bec7d2a27db0dd992943a2af2a5aea42f 2016-11-18 19:09:22 from WL -> 13LBg
+92b05bec2a1b9d9517ef06dba00d5d36f9d4e37628c2d0febce5ff793a871b15 2016-11-18 19:07:46 from WL -> 13LBg
+fcc03d69c3a3c3f67faae72c9c054106bb73c4f8bc4fd9cab644cecdf1e3cd04 2016-11-18 19:07:03 from WL -> 13LBg
+3dfd6b96e0583a17b34dcd3a4dcb021949ece3140b7a1918c4de07cea32d4364 2016-11-18 19:06:39 from WL -> 13LBg"
+-those fired within 11m of each other
+-they were done by hand it looks
+these are all the 199111 transactions
+
+we need to find out where this "1991118e2ccb0b8e0d14c560ce6092c5a4a94c74" is signaling us to look
+
+10-18 is 31 days prior.  7pm UTC.  look at all wallets.  not just WL wallet.  looking for 911 transaction
+
+pre-commitment 1: John Kerry
+4bb96075acadc3d80b5ac872874c3037a386f4f595fe99e687439aabd0219809
+as a pubkey, this generates hash160 of
+1Q6P2bgNnXomkeMTrpTu5b4zoQZGn31N4e
+which is a valid wallet; it is inactive to date (12/6/2016)
+https://blockchain.info/address/1Q6P2bgNnXomkeMTrpTu5b4zoQZGn31N4e
+
+pre-commitment 2: Ecuador
+eae5c9b064ed649ba468f0800abf8b56ae5cfe355b93b1ce90a1b92a48a9ab72
+as a pubkey, this generates hash160 of
+1NpxfNnRw32tCRtvdccP6gty7Uj37rv39X
+which is a valid wallet; it is inactive to date (12/6/2016)
+https://blockchain.info/address/1NpxfNnRw32tCRtvdccP6gty7Uj37rv39X
+
+pre-commitment 3: UK FCO
+f33a6de5c627e3270ed3e02f62cd0c857467a780cf6123d2172d80d02a072f74
+as a pubkey, this generates hash160 of
+1oJJSPjS6atqtvPxzLTa1qfX5qq9kCsRM
+https://blockchain.info/address/1oJJSPjS6atqtvPxzLTa1qfX5qq9kCsRM
+
+HASH160 is a one-way cipher, and I don't know of a way to break it.  Brute force would be necessary.  Ideally, these would be real wallets that you held the private key to if you wanted the 64-byte string pre-commitment-as-a-reference-to-a-btc-wallet to be relevant.  That would require a hash cracker operating only at the 64-byte length... Which should be crackable if you have plenty of time & computing power beforehand to brute it.
+
+Therefore, I believe these are wallets that WL owns.  I think John Kerry was supposed to make a deposit.  As well as Ecuador and the UK FCO.  And... they didn't.
+
+4bb9
+6075acadc3
+d80b5ac872
+874c3037a3
+86f4f595fe
+99e687439a
+abd0219809
+
+first of all, blockchain.info has 0.00000000000btc received on all days prior to 10/31 for the WL wallet.  next, look at the Nov 1 date. http://gateway.glop.me/ipfs/QmTCpC7zcUJfPTqnobnnvx4iTaPHV2PC327Cz8fuhV43YR/wl-recv.png
+
+
+https://blockchain.info/charts/received-per-day?timespan=1year&showDataPoints=false&daysAverageString=1&show_header=true&scale=0&address=1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v
+
+Sunday evening (5:08pm US/Central time, 12:08am UK): John Kerry is trying to shut you down.  You send out a pre-commitment hash.  Ecuador and the UK look like they aren't going to step in to stop Kerry, so you issue 2 more pre-commitments for Ecuador and the UK FCO, 15 and 17 minutes later, respectively.  An hour and a half later, you tell Ian Bremmer to kiss your ass and also accuse the US government of hacking your journalists and partners, and link to a lawsuit.  The lawsuit describes one way to "hack" your people, whereby the government just gets a warrant.
+Monday morning, 33 minutes after midnight US/Central time (London = 7:33am): "internet link has been severed by a state party"
+Friday morning (US) October 21: Julian fails to "check in by end of Friday" and the DMS triggers accordingly - intelligence has been watching social media for your DMS and then does a DDoS on your DMS targets while your DMS is located
+
+should absolutely everything between 10/19 and 10/21.  He was taken between 2:03am and 7:33am UK time on 10/17
+
+i'm out man
+- just left
+- man fuck that
